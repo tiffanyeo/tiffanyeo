@@ -1,6 +1,6 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&descAlign=39&descAlignY=51&descSize=40)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&color=9B59B6&width=500&height=70&repeat=false&duration=1500&size=35&lines=Hey+there!;Im+Tiffany+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=300&width=500&height=70&repeat=false&duration=1500&size=35&lines=Hey+there!;Im+Tiffany+%3A%29)](https://git.io/typing-svg)
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,java,dart,php,postgres,html,css,figma,sqlite,d3&theme=dark)](https://skillicons.dev)
